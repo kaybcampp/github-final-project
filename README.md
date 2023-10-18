@@ -1,3 +1,5 @@
+** A Final Project for a Git & Github Coursera Course with IBM **
+
 A calculator that calculates simple interest given principle, annual rate of interest and time period in years.
 
 Input:
